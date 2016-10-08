@@ -1,0 +1,256 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	padding-top: 5%;
+	padding-bottom: 10%;
+	color: #3e2723;
+	background-color: #1f1f1f;
+
+	font-family: 'Merriweather Sans', sans-serif;
+	font-family: 'Righteous', cursive;
+	background-image: url('../img/bg-2.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.container {
+	background-color: #fff;
+	box-shadow: 0px 0px 2.5px 30px #3e2723;
+}
+
+.navigation-wrapper {
+  background-color: #f8f8f8;
+  border-color: #e7e7e7
+}
+
+
+
+/*==================CUSTOM HELPER CLASSES ==================*/
+
+.padding-top-1 {
+	padding-top: 1rem;
+}
+
+.padding-top-2 {
+	padding-top: 2rem;
+}
+
+.padding-top-3 {
+	padding-top: 3rem;
+}
+
+.padding-bottom-1 {
+	padding-bottom: 1rem;
+}
+
+.padding-bottom-3 {
+	padding-bottom: 3rem;
+}
+
+.font-normal {
+	font-weight: normal;
+}
+
+.font-Merriweather {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.top-shadow {
+	box-shadow: 0 -2px 1px 0 #212121;
+}
+
+.bottom-shadow {
+	box-shadow: 0 2px 1px 0 #212121;
+}
+
+.bg-brown {
+	background-color: #3e2723;
+	color: #fff;
+}
+
+
+
+
+
+
+
+/*CUSTOM STYLES */
+
+.logo-link {
+	padding: 5px 15px 15px 15px;
+}
+
+.logo {
+margin: 0;
+width: 75%;
+}
+
+
+.custom-nav li {
+	background-image: url('../img/nav.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	margin: 1em 0;
+}
+
+.carousel {
+padding-top: 2.5rem;
+padding-bottom: 2.5rem;
+
+}
+
+.coffee-img {
+	width: 200px;
+	height: 200px;
+}
+
+.carousel-control.left, .carousel-control.right {
+  background-image: none;
+  color: #121212;
+}
+
+.carousel-indicators {
+	bottom: -10px;
+}
+
+
+.carousel-indicators li {
+	background-color: #333;
+
+}
+
+.coffee-img {
+	padding-top: 5rem;
+}
+
+.coffee-bg {
+	background-image: url("../img/coffee-4.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	min-height: 250px;
+}
+
+.coffee-gallery-1 {
+	background-image: url("../img/coffee-4.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	min-height: 150px;
+
+}
+
+
+.fa {
+	color: #fff;
+}
+
+.footer-icons li {
+	margin: auto .5rem;
+}
+
+
+@media screen and (min-height: 768px) {
+
+	.mobile-display {
+		display: none;
+	}
+
+	.fa {
+	color: #fff;
+	zoom: 1.75;
+}
+
+	.row-eq-height {
+	    display: -webkit-box;
+	    display: -webkit-flex;
+	    display: -ms-flexbox;
+	    display: flex;
+	}
+
+
+
+	.nav-container { 
+			padding: 3em 2em 0 2em;
+	
+	 }
+
+	.logo-link {
+		padding: 0;
+	}
+
+	.logo {
+		margin: 0;
+		width: 100%;
+		}
+
+
+	.custom-nav {
+		background-image: url('../img/nav.png');
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+	}
+
+	.custom-nav li {
+		background: none;
+		border-right: 1px solid #ccc;
+		text-align: center;
+		width: 8em;
+		margin: 0;
+	}
+
+
+	.custom-nav li:nth-child(n + 5) {
+		border-right: none;
+	}
+
+	.custom-nav a {
+		color: #212121;
+		background-color: none;
+	}
+
+	.nav-tabs {
+		border-bottom: none;
+
+	}
+
+}
+
+
+
+
+
+
+/*================NAVIGATION================*/
+
+
+
+/*================MAIN================*/
+
+
+
+
+/*================FOOTER================*/
+
+
+
+
+
+/*================HELPER-CLASSES================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
