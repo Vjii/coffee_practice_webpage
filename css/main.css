@@ -5,9 +5,9 @@
    ========================================================================== */
 
 body {
-	padding-top: 7.5%;
+	padding-top: 4%;
 	padding-bottom: 10%;
-	color: #3e2723;
+	color: #2B0F0E;	
 	background-color: #1f1f1f;
 
 	font-family: 'Merriweather Sans', sans-serif;
@@ -19,12 +19,12 @@ body {
 
 .container {
 	background-color: #fafafa;
-	box-shadow: 0 0px 2px 30px #3e2723;
+	box-shadow: 0 0px 2px 30px #2B0F0E;
 	
 }
 
 .box-shadow {
-	box-shadow: 0 30px 2px 30px #3e2723;
+	box-shadow: 0 30px 2px 30px #2B0F0E;
 }
 .navigation-wrapper {
   background-color: #fafafa;
@@ -82,7 +82,7 @@ a {
 }
 
 .bg-brown {
-	background-color: #3e2723;
+	background-color: #2B0F0E;
 	color: #fff;
 }
 
