@@ -39,6 +39,9 @@ a {
 	color: #d4b588;
 }
 
+.block {
+	display: block;
+}
 
 .padding-top-1 {
 	padding-top: 1rem;
@@ -64,6 +67,9 @@ a {
 	padding-bottom: 3rem;
 }
 
+.margin-top-3 {
+	margin-top: 3rem;
+}
 .font-normal {
 	font-weight: normal;
 }
