@@ -19,11 +19,13 @@ body {
 
 .container {
 	background-color: #fafafa;
-	box-shadow: 0 0px 2px 30px #2B0F0E;
-	
 }
 
-.box-shadow {
+.box-shadow-1 {
+	box-shadow: 0 0px 2px 30px #2B0F0E;
+}
+
+.box-shadow-2 {
 	box-shadow: 0 30px 2px 30px #2B0F0E;
 }
 .navigation-wrapper {
