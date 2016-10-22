@@ -293,6 +293,12 @@ padding-bottom: 2.5rem;
 @media screen and (min-width: 992px) {
 
 
+ .carousel-row {
+ 	padding-top: 7.5vh;
+ 	padding-bottom: 7.5vh;
+ }
+
+
  .gallery {
  	 min-height: 250px;
  }
