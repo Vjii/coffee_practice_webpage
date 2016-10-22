@@ -19,11 +19,13 @@ body {
 
 .container {
 	background-color: #fafafa;
-	box-shadow: 0 0px 2px 30px #2B0F0E;
-	
 }
 
-.box-shadow {
+.box-shadow-1 {
+	box-shadow: 0 0px 2px 30px #2B0F0E;
+}
+
+.box-shadow-2 {
 	box-shadow: 0 30px 2px 30px #2B0F0E;
 }
 .navigation-wrapper {
@@ -152,7 +154,7 @@ padding-bottom: 2.5rem;
 }
 
 .coffee-img {
-	padding-top: 4rem;
+	margin-top: 1rem;
 }
 
 .coffee-bg {
@@ -209,6 +211,11 @@ padding-bottom: 2.5rem;
 .footer-icons li {
 	margin: auto .5rem;
 }
+
+
+
+
+
 
 
 @media screen and (min-width: 768px) {
